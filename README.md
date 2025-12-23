@@ -16,7 +16,7 @@ The agent is structured around two primary Dialogflow CX flows:
 - **Pizza Order Flow**: Manages order initiation, pizza selection (signature or custom), toppings, drinks, sides, and order review.
 - **Payment Flow**: Handles customer information collection, payment method selection, order confirmation, and order modification or cancellation.
 
-These flows are connected through route groups and conditional transitions, allowing users to restart orders, revise customer details, or cancel orders at multiple points in the conversation. The **attached report section** goes into full depth in regards to conception, theoretical business implications, and techincal aspects with imagery. The **attached video demo section** explores the conversational flow at work, for a signature and custom pizza respectively.
+These flows are connected through route groups and conditional transitions, allowing users to restart orders, revise customer details, or cancel orders at multiple points in the conversation. The **attached report section** goes into full depth in regards to conception, theoretical business implications, and further techincal aspects with imagery. The **attached video demo section** explores the conversational flow at work, for a signature and custom pizza respectively.
 
 ---
 
