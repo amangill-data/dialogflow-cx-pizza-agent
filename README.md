@@ -21,7 +21,7 @@ These flows are connected through route groups and conditional transitions, allo
 ---
 
 ## Project Context
-This project was developed as final group project of three for the course: **ADTA 5750 Applied Natural Language Processing** during Winter 2025. My key contribution involved the design and implementation of the conversational agent itself. This entails flow architecture, page routing, intent handling, and dialog logic within Dialogflow CX. Other team members collaborated in assessing the preliminary conceptual steps that defined entity categories & diagrams, and designed the in-class presentation slides. 
+This project was developed as final group project of three for the course: **ADTA 5750 Applied Natural Language Processing** during Winter 2025. My key contribution involved the design and implementation of the conversational agent itself. This entails flow architecture, page routing, intent handling, and dialog logic within Dialogflow CX. Partners efficiently collaborated in business application and conceptual brainstorming; assessing the preliminary areas that defined entity categories & intents, as well as the drafting of the foundational erd diagram and in class presentation slides.
 
 This repository presents the system as a standalone portfolio case study, consolidating the technical design, implementation details, and testing outcomes into a single, curated format.
 
