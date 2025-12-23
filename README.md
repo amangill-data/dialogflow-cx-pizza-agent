@@ -16,7 +16,7 @@ The agent is structured around two primary Dialogflow CX flows:
 - **Pizza Order Flow**: Manages order initiation, pizza selection (signature or custom), toppings, drinks, sides, and order review.
 - **Payment Flow**: Handles customer information collection, payment method selection, order confirmation, and order modification or cancellation.
 
-These flows are connected through route groups and conditional transitions, allowing users to restart orders, revise customer details, or cancel orders at multiple points in the conversation. The **attached report section** goes into full depth in regards to conception, theoretical business implications, and techincal aspects with imagery. The **attached video demo section** explores the conversational flow at work, for a signature and custom pizza respectively
+These flows are connected through route groups and conditional transitions, allowing users to restart orders, revise customer details, or cancel orders at multiple points in the conversation. The **attached report section** goes into full depth in regards to conception, theoretical business implications, and techincal aspects with imagery. The **attached video demo section** explores the conversational flow at work, for a signature and custom pizza respectively.
 
 ---
 
@@ -36,7 +36,7 @@ This repository presents the system as a standalone portfolio case study, consol
 - **Intent-Based Routing** — User intents trigger page transitions, confirmations, corrections, and flow jumps
 - **Entity-Driven Selection** — Entities capture structured inputs such as pizza size, crust type, toppings, drinks, and payment method
 - **Conditional Responses** — Order summary logic dynamically checks which parameters were collected or skipped before generating responses
-- **Event Handlers** — No-match and no-input handlers that guide users when input is unclear or missing
+- **Event Handlers** — No-match and no-input handlers that prompt correct input before further advancement when input is unclear or missing
 - **State Management with Parameters** — Session parameters persist user selections across pages and flows
 
 
