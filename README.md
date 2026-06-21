@@ -24,9 +24,11 @@ These flows are connected through route groups and conditional transitions, allo
 ---
 
 ## Project Context - Technical Lead 
-This project was developed as the final group project of three, for the University of North Texas Graduate Course: **ADTA 5750 Applied Natural Language Processing**, during Winter 2025. The Agent is Dubbed "MLAGNO", as a combination of member initials. My key contribution involved the design and implementation of the conversational agent itself. This entails flow architecture, page routing, intent handling, and dialog logic within Dialogflow CX. This team efficiently collaborated in business application and conceptual brainstorming; assessing the preliminary areas that defined entity categories & intents. Partners respectively handled the creation of the preconditional lucidchart erd diagram draft, and in class presentation slides.
+This project was developed as the final group project of three, for the University of North Texas Graduate Course: **ADTA 5750 Applied Natural Language Processing**, during Winter 2025. The Agent is Dubbed "MLAGNO", as a combination of member initials. 
 
-This repository presents the system as a standalone portfolio case study, consolidating the technical design, implementation details, and testing outcomes into a single, curated format.
+My key contribution involved the design and implementation of the conversational agent itself. This entails flow architecture, page routing, intent handling, and dialog logic within Dialogflow CX. This team efficiently collaborated in business application and conceptual brainstorming; assessing the preliminary areas that defined entity categories & intents. Partners respectively handled the creation of the preconditional lucidchart erd diagram draft, and in class presentation slides.
+
+This repository serves to present the system as a standalone portfolio case study, consolidating the technical design, implementation details, and testing outcomes into a single, curated format.
 
 ---
 
