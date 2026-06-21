@@ -3,7 +3,10 @@
 ---
 
 ## Overview and System Architecture 
-This project is a conversational AI agent built using Google Dialogflow CX, focusing on flow design, state management, and natural language interaction. The agent simulates a full pizza ordering and checkout experience through both text based and custom payload interaction. Please see **video** for a demonstration The user is thus guided through:
+
+(Please see above: **videodemo** for guided demonstration, and **report**, for technical details)
+
+This project is a conversational AI agent built using Google Dialogflow CX, focusing on flow design, state management, and natural language interaction. The agent simulates a full pizza ordering and checkout experience through both text based and custom payload interaction. The user is thus guided through:
 1. Selecting Pizza
 2. Adding Toppings
 3. Specifiying Drinks and/or Desserts
